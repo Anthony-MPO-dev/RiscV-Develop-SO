@@ -1,4 +1,4 @@
-# RiscV-anthony-m-p-oliveira-dev
+# Mini-Sistema-Operacional | RiscV
 Implementação de mini sistema operacional em RiscV da Disciplina de SOII Graduação em Ciência da Computação
 
 Nos utilizaremos as ferramentas nativas de desenvolvimento deste SO em linux (que é centrado na arquitetura RISC-V)
